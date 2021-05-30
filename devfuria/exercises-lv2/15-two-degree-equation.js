@@ -2,7 +2,6 @@ const assert = require('assert')
 
 var delta = function (a, b, c) {
     return Math.pow(b, 2) - 4 * a * c;
-    console.log();
 }
 
 var x1 = function (a, b, c) {
