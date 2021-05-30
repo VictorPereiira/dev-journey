@@ -7,5 +7,5 @@ var calc = function (biggerBase, smallerBase, height) {
 try {
     assert.strictEqual(8, calc(5, 3, 2))
 } catch (error) {
-    console.log(MediaError);
+    console.log(error);
 }
