@@ -1,10 +1,9 @@
 const assert = require('assert')
 
 var calc = function (client, balance) {
-    let averageBalance = balance / 12,
-        credit,
-        percent,
-        lessOrEqual200 = averageBalance <= 200,
+    let averageBalance = balance / 12, credit, percent
+
+    let lessOrEqual200 = averageBalance <= 200,
         range200To300 = averageBalance > 200 && averageBalance <= 300,
         range300To400 = averageBalance > 300 && averageBalance <= 400
 
