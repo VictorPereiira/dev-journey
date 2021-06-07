@@ -1,14 +1,15 @@
 # ![](./github/icon-js.png) JavaScript Journey
-> 🚀 Learning
+
 
 ![](./github/wallpaper-js.png)
-#
-## ⚓Summary
+> 🚀 Learning
+
+## Summary 
 
 <details>
     <summary>Preliminary Topics</summary>
     <ol>
-        <li><a href = "">Variables and Data Type</a></li>
+        <li><a href = "notes/01_preliminary-topics/01.1_variable-and-data-type.md">Variables and Data Type</a></li>
     </ol>
 </details>
 
