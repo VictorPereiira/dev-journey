@@ -2,7 +2,7 @@
 
 ![](./github/wallpaper-js.png)
 
-<h1 align = "center"> ![](./github/icon-js.png) JavaScript Journey </h1>
+<h1 align = "center"> JavaScript Journey </h1>
 
 ## Target
 > 🎯Explore the most diverse powers of language in its pure state
