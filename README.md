@@ -1,26 +1,15 @@
-
+<h1 align = "center"> JavaScript Journey </h1>
 
 ![](./github/wallpaper-js.png)
 
-<h1 align = "center"> JavaScript Journey </h1>
 
 ## Target
 > 🎯Explore the most diverse powers of language in its pure state
 
-#
+## Projects 
 
-## Reference
+1. Mini Game - [Number Guessing Game](https://victorpereiira.github.io/number-guessing-game/) 
+2. Mini Game - [Typing Game](https://victorpereiira.github.io/typing-game/) 
+
+## References
 - [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-#
-## Summary 
-
-<details>
-    <summary>Preliminary Topics</summary>
-    <ul>
-        <li> - [x] <a href = "notes/01_preliminary-topics/01.1_variable-and-data-type.md">Variables and Data Type</a></li>
-        <li> - [ ] Expressions Operators</li>
-        <li> - [ ] Destructuring</li>
-    </ul>
-</details>
-
-
